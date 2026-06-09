@@ -25,7 +25,7 @@ study streaks.
 ## How to Run
 
 1. Clone the repository
-   git clone https://github.com/YOURUSERNAME/study-planner.git
+   git clone https://github.com/karansharma98211/study-planner.git
 
 2. Navigate to the folder
    cd study-planner
@@ -50,6 +50,21 @@ study-planner/
 - Using sets for efficient duplicate removal and set difference
 - Error handling with try/except for robust user input
 - Working with dates and timedelta for streak calculation
+
+
+## Screenshots
+
+### Main Menu
+
+![Main Menu](screenshots/menu.png)
+
+### Weekly Summary
+
+![Weekly Summary](screenshots/summary.png)
+
+### Streak
+
+![Streak](screenshots/streak.png)
 
 ## Author
 
