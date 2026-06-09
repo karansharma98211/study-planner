@@ -56,15 +56,15 @@ study-planner/
 
 ### Main Menu
 
-![Main Menu](screenshots/menu.png)
+![Main Menu](screenshots:menu.png)
 
 ### Weekly Summary
 
-![Weekly Summary](screenshots/summary.png)
+![Weekly Summary](screenshots:summary.png)
 
 ### Streak
 
-![Streak](screenshots/streak.png)
+![Streak](screenshots:streak.png)
 
 ## Author
 
