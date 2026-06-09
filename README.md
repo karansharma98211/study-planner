@@ -55,16 +55,19 @@ study-planner/
 ## Screenshots
 
 ### Main Menu
-
-![Main Menu](screenshots:menu.png)
+![Main Menu](Screenshot/menu.png)
 
 ### Weekly Summary
+![Weekly Summary](Screenshot/summary.png)
 
-![Weekly Summary](screenshots:summary.png)
+### Streak Counter
+![Streak](Screenshot/streak.png)
 
-### Streak
+### Search Sessions
+![Search](Screenshot/search_session.png)
 
-![Streak](screenshots:streak.png)
+### Delete Subject
+![Delete](Screenshot/delete_a_sub.png)
 
 ## Author
 
