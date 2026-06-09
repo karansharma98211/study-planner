@@ -67,7 +67,7 @@ study-planner/
 ![Search](Screenshot/search_session.png)
 
 ### Delete Subject
-![Delete](Screenshot/delete_a_sub.png)
+![Delete](Screenshot/delete-sub.png)
 
 ## Author
 
